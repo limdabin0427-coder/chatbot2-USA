@@ -765,7 +765,7 @@ def chat():
                 original=original,
             )
         return respond(
-            f"Welcome to my country! This is {COUNTRY}.",
+            f"Welcome to my country! This is {CHARACTER.get('country_question_name', COUNTRY)}.",
             "오늘의 기분을 영어로 말해 보세요.",
             Stage.WAIT_FEELING.value,
             original=original,
