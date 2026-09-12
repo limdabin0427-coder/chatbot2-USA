@@ -3,6 +3,7 @@
     "name": "Kate",
     "name_aliases": ["Katie", "Katy", "Kitty", "Kait", "케이트"],
     "country": "USA",
+    "country_question_name": "the USA",
     "age": 10,
     "gender": "female",
     "emoji": "🇺🇸",
@@ -11,7 +12,7 @@
     "home_url": "https://visit-countries.lovable.app",
     "intro_message": "It's good to see you again.",
     "intro_speech": "Hi! It's good to see you again.",
-    "preference_food": "hot dog",
+    "preference_food": "hot dogs",
     "retry_examples": {
       "STUDENT_QUESTION_1": "Do you like burgers?",
       "STUDENT_QUESTION_2": "Do you like hot dogs?"
